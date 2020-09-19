@@ -1,0 +1,62 @@
+[
+    {
+        "adi": "Orman meyveli Bowl",
+        "id": 1,
+        "image": "https://www.makingthymeforhealth.com/wp-content/uploads/2015/06/Acai-Bowls-_.jpg",
+        "malzemeler": "1 su bardağı süzme yoğurt\r\n6 yaprak ıspanak\r\n1 su bardağı dondurulmuş orman meyvesi (çilek, böğürtlen, yaban mersini)\r\n1 yemek kaşığı bal\r\n 1 tatlı kaşığı çekilmiş keten tohumu\r\n1 adet muz\r\n1 tatlı kaşığı chia tohumu\r\n4 adet ceviz\r\n6 adet badem\r\n10 adet fındık\r\n",
+        "recipe": "İç malzemelerin hepsi blender da karıştırılarak kase içine konulur.\r\nÜst malzemeler ile süslenerek servis edilir.\r\nNot: Bekletilmeden tüketilmesi gerekmektedir.",
+        "sure": 10,
+         "pisirimturu":"Blender",
+         "materials":"[süzme yoğurt,ıspanak,orman meyvesi,bal,muz,keten tohumu,chia tohumu,]"
+    },
+    {
+        "adi": "Acai Bowl",
+        "id": 2,
+        "image": "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-recipes-pembe-smoothie-bowl-1568392110700.jpg",
+        "malzemeler": "5 yemek kaşığı süzme yoğurt\r\n 10-12 adet yaban mersini\r\n 6 adetçilek\r\n 1 tatlı kaşığıbal\r\n 1 yemek kaşığı chia tohumu\r\n\r\n Üzeri için:\r\n 15 adet yaban mersini\r\n 1 adet küçük boy muz\r\n 1 tatlı kaşığıchia tohumu\r\n 5-6 adet çiğ badem",
+        "recipe": "İç malzemelerin hepsi blender da karıştırılarak kase içine konulur.\r\nÜst malzemeler ile süslenerek servis edilir.\r\nNot: Bekletilmeden tüketilmesi gerekmektedir.",
+        "sure": 10,
+         "pisirimturu":"Blender",
+        "materials":"[süzme yoğurt,yaban mersini,çilek,bal,chia tohumu,muz,badem]"
+    },
+    {
+        "adi": "Granola Bowl",
+        "id": 3,
+        "image": "https://i.pinimg.com/564x/0a/23/18/0a231810adea3bd7ab08c0f832471e30.jpg",
+        "malzemeler": "1 adet donmuş muz\r\n 1 cup donmuş çilek\r\n 2 cup yeşil yapraklı sebze\r\n 1 cup süt \r\n Çiğ kabak çekirdeği ve ay çekirdeği\r\n Donmuş kırmızı meyveler ve organik yulaf",
+        "sure": 12,
+         "pisirimturu":"yok",
+        "materials":"[muz,çilek,yapraklı sebze,süt,kabak çekirdeği,badekırmızı meyveler,organik yulaf]",
+         "recipe": "Süt,muz,çilek,yeşil sebzeleri blender’dan geçirin. Kaseye boşalttığınız karışımın üzerini kırmızı meyveler ve çiğ çekirdeklerle süsleyin."
+    },
+     {
+        "adi": "Thai Kinoa Bowl",
+        "id": 4,
+        "image": "https://i1.wp.com/studio11.ist/wp-content/uploads/2019/01/Thai-Quinoa-Salad-2.jpg?w=683&ssl=1",
+        "malzemeler": "1 cup haşlanmış kinoa\r\n 1adet havuç\r\n 1 adet kırmızı biber\r\n 1 adet salatalık\r\n 1cup haşlanmış soya fasülyesi\r\n ½ cup mor lahana\r\n 1 Lime suyu\r\n 1 çay kaşığı Rendelenmiş zencefil\r\n Susam yağı ve zeytinyağı\r\n Thai balık sosu",
+        "sure": 12,
+         "pisirimturu":"yok",
+        "materials":"[kinoa,havuç,kırmızı biber,salatalık,zencefil,soya fasülyesi,mor lahana,lime suyu, Susam yağı ]",
+         "recipe": "Haşlanmış kinoayı sos malzemeleri ile karıştırın. Kaseye yerleştirin. Üerine rengdelenmiş ya da  ince kıyılmış malzemeleri yerleştirin."
+    },
+    {
+        "adi": "Teriyaki Soslu Tavuk Bowl",
+        "id": 5,
+        "image": "https://i1.wp.com/studio11.ist/wp-content/uploads/2019/01/Teriyaki-Chicken-Rice-Bowl-foodiecrush.com-040.jpg?w=600&ssl=1",
+        "malzemeler": "1 tavuk göğsü\r\n 1 yemek kaşığı Susam yağı\r\n 2 yemek kaşığı Teriyaki sos\r\n 1 tatlı kaşığı Susam\r\n 1 cup haşlanmış pirinç\r\n ½ cup haşlanmış edamame\r\n ½ cup ince dilimlenmiş havuç ve salatalık",
+        "sure": 12,
+         "pisirimturu":"yok",
+        "materials":"[tavuk göğsü,Teriyaki sos,Susam yağı,pirinç,edamame,havuç ]",
+         "recipe": "Haşlanmış kinoayı sos malzemeleri ile karıştırın. Kaseye yerleştirin. Üerine rengdelenmiş ya da  ince kıyılmış malzemeleri yerleştirin."
+    },
+      {
+        "adi": "Vegan Buddha Bowl",
+        "id": 6,
+        "image": "https://i1.wp.com/studio11.ist/wp-content/uploads/2019/01/buddha-bowl.jpg?w=600&ssl=1",
+        "malzemeler": " 1-1,5 cup haşlanmış nohut\r\n Soğan-sarımsak tozu\r\n Kimyon\r\n Zerdeçal\r\n1 cup tatlı patates\r\n 2 cup brokoli\r\n1 tutam kara lahana\r\n2 yemek kaşığı Tahin\r\n1 yemek kaşığı Limon suyu\r\n1 tatlı kaşığı Akçaağaç şurubu",
+        "sure": 10,
+         "pisirimturu":"yok",
+        "materials":"[ nohut,sarımsak tozu,Kimyon,Zerdeçal,patates,brokoli,kara lahana,Tahin,Limon suyu,Akçaağaç şurubu]",
+         "recipe":"Haşlanmış nohutları baharatlarla tatlandırıp yağlı kağıtta fırına atın.\r\n Patatesleri küp küp kesin.\r\n Brokoliyi küçük parçalara ayırın ve onları da fırınlayın.\r\n Başka bir kapta sosu hazırlayın.\r\n Kaseye aldığınız malzemeleri ortasına nohutları koyarak sıralayın ve sosu üzerine gezdirin."
+    }
+]

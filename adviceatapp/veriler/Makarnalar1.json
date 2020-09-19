@@ -1,0 +1,113 @@
+[
+    {
+        "adi": "Penne Arabiata",
+        "id": 1,
+        "image": "https://i.pinimg.com/564x/ff/51/a4/ff51a428f52201c4fc34dfa49ba1b1a8.jpg",
+        "materials":"[makarna, salça,domates,tozşeker,sıvıyağ ,acı biber , kırmızı biber,zeytinyağı,sarımsak, tuz, karabiber, kırmızı pulbiber,kurufesleğen , tazefesleğen ,reyhan]",
+        "recipe": "Sarımsakları ve soğanı ince ince kıyın.\r\n Sıvı yağı ve zeytinyağını tavada ısıtın.\r\n Kuru soğanları ekleyip, pembeleşinceye kadar kavurun.\r\n Kıyılmış sarımsakları ekleyip biraz daha kavurun.\r\n İnce ince kıyılmış acı biberleri ve kırmızı biberi de ekleyerek sote edin.\r\nBiberler iyice yumuşayınca doğranmış domatesleri ilave edin.\r\nDomates suyunu, kırmızıbiber, tuz, karabiber, kuru fesleğeni koyup kaynatın ve şekeri ilave edin.\r\nSosumuzu ister bu şekilde makarnanın üzerine koyun ister mikserle püre edip koyun. Ben taneleri görününce seviyorum.\r\nDomates sosunu ekleyip, iyice karıştırıp, servis tabağına alın. Üzerine arzuya göre rendelenmiş kaşar peyniri serperek servis edebilirsiniz",
+        "sure": 23,
+          "pisirimturu":"ocak",
+          "malzemeler":"1 paket makarna\r\n 2 su bardağı domates suyu\r\n 2 su\r\n 4 adet domates\r\n 1 çay kaşığı toz şeker\r\n 1 çay bardağı sıvı yağ\r\n 1 adet kuru soğan\r\n damak tadına göre acı biber (süs biberi olabilir)\r\n 1 kırmızı biber\r\n 1 yemek kaşığı zeytinyağ\r\n 4 diş sarımsak\r\n yeterince tuz\r\n karabiber\r\n kırmızı pul biber\r\n 1 çay kaşığı kuru fesleğen"
+    },
+    {
+        "adi": "Spaghetti Bolognese",
+        "id": 2,
+        "image": "https://i.pinimg.com/564x/6a/38/23/6a38239077dda375dcd0720e2461129d.jpg",
+        "materials": "[ spaghetti ,kıyma,soğan,sarımsak,domates,domates,fesleğen,sıvı yağ,havuç,salça,kimyon,karabiber]",
+        "recipe":"Önceden rondodan geçirmiş olduğunuz soğan ve havucu sıvı yağda kavurun.\r\n Daha sonra kıymayı ilave ederek kavurmaya devam edin.\r\n Sürekli karıştırarak kavurmaya devam ederken kıyılmış sarımsakları da ekleyin.\r\n Yaklaşık 20 dakika kadar kavurduktan sonra salçayı da ilave edin, sonra kabuğunu soyup rondodan geçirmiş olduğunuz domatesleri ekleyin.\r\n Altı kısık olarak pişirmeye devam edin, gerekirse su ekleyebilirsiniz.\r\n Tuzu ve baharatları ekleyin.Şekeri koyun.Sebzeler ve kıyma iyice özdeşleşene kadar ve suyunu kontrol ederek kaynatın.\r\n Pişirdiğiniz spagettinin üzerine koyarak servis edin",
+        "sure": 35,
+          "pisirimturu":"ocak",
+           "malzemeler":"1 paket spagetti\r\n 200g kıyma\r\n Yarım çay bardağı sıvı yağ\r\n 2 dış sarımsak\r\n 2 adet soğan\r\n 3 orta boy domates\r\n 2 adet havuç\r\n 1 yemek kaşığı salça\r\n Tuz\r\n kimyon\r\n karabiber"
+    },
+    {
+        "adi": "Spaghetti  Carbonara",
+        "id": 3,
+        "image": "https://www.skinnytaste.com/wp-content/uploads/2019/10/Spaghetti-Carbonara-6.jpg",
+        "materials":"[makarna,zeytinyağ,maydanoz,dana jambon, maydanoz,karabiber,tuz,sarımsak,yumurta,parmesan,tuz,karabiber]",
+        "recipe": "Makarnayı tuzlu suda dişe gelir kıvama gelene dek  haşlayın.\r\n 2 yumurta sarısını büyük bir çukur kapta benmari usulü ısıtarak, hızlıca çırparak, homojen bir görünüm elde edene kadar(1-1.5 dakika kadar) pastorize edin.\r\n Bu işlem sayesinde yumurta sarıları çiğ kalmayacak.\r\n Çukur kabı benmariden indirip diğer malzemeleri ekleyin ve malzemeleri iyice birbirine karıştırın.\r\n Haşlanan makarnayı süzün, suyundan 1/2 kepçe kadarını yavaş yavaş yumurtalı karışıma ekleyin\r\n Suyu eklerken bir yandan da karışımı karıştırmayı ihmal etmeyin.\r\n Süzülen makarnanızı, kasenin içindeki sosla birleştirip, makarnaları kırmadan sosun makarnanın her yerine ulaşmasını sağlayın.",
+        "sure": 32,
+          "pisirimturu":"ocak",
+           "malzemeler":" 450 gram spagetti\r\n 2 YK zeytinyağı\r\n 110 gram dana jambon\r\n 4 diş sarımsak\r\n 2 yumurta\r\n 1 SB parmesan\r\n 1 avuç maydanoz\r\n tuz\r\n karabiber"
+    },
+    {
+        "adi": "Linguini ",
+        "id": 4,
+        "image": "https://i.pinimg.com/564x/8a/12/03/8a12038f1ca77fb75cfa766a2a46fc2c.jpg",
+        "materials":"[linguine makarna, enginar ,bottarga , maydanoz, chili biber,sarımsak,limon,sızma zeytinyağı,deniz tuzu,karabiber]",
+        "recipe": "İki litre kaynar suya, 20 gram deniz tuzu ilave edin ve linguine makarnayı damak zevkinize göre haşlayın.\r\n Sosu için; ayrı bir tavada, doğranmış sarımsak, taze chili biberi ve ince dilimlenmiş enginarları zeytinyağında soteleyin\r\n Bu sırada üzerine yarım kepçe makarnanın haşlama suyundan ilave edin.\r\n Haşlanan makarnaları, enginarların bulunduğu tavaya alın ve karıştırmaya başlayın.\r\n Sırasıyla; rendelenmiş limon kabuğu, doğranmış maydanoz ve ince dilimlenmiş bottarga’ları ilave edip makarnayı sotelemeye devam edin.\r\n En son ekstra sızma zeytinyağı ve taze çekilmiş tane karabiber ile tatlandırıp bekletmeden servis edin.",
+        "sure": 40,
+          "pisirimturu":"ocak",
+           "malzemeler":"200 gram linguine makarna\r\n 2 adetorta boy enginar (ayıklanmış)\r\n 70 gram bottarga (mumlu balık yumurtası)\r\n 1/2 demetmaydanoz\r\n 1/2 adettaze chili biberi\r\n 1 diş sarımsak\r\n 1/2 adetorta boy limon\r\n 2 yemek kaşığıekstra sızma zeytinyağı\r\n 20 gramdeniz tuzu\r\n 2 gramtaze çekilmiş tane karabiber "
+    },
+    {
+        "adi": "Penne Rigate ",
+        "id": 5,
+        "image": "https://i.pinimg.com/564x/a8/ef/6e/a8ef6e07e7d37913df3f907aecd476c5.jpg",
+        "materials":"[ penne rigate makarna, mozzarella peynir,parmesan peynir, fesleğen yaprağı, domates,zeytin yağı,soğan,sarımsak,fesleğen yaprağı Tuz , karabiber]",
+        "recipe": "Domateslerin 3 tanesini sonraya ayırıp, geri kalanı kabaca doğrayın. Orta boy bir tencerede yağı ısıtın, soğan ve sarımsağı ekleyin ve pembeleşinceye kadar 5 dakika kavurun. Sonra doğranmış domatesleri ve fesleğenlerin üçte birini ekleyin. Biraz tuz ve taze çekilmiş karabiberi de ilave ettikten sonra karışımı yarım saat kısık ateşte pişirin. Sos iyice piştikten ve koyulaştıktan sonra ayırdığınız domatesleri ve fesleğen yapraklarını da içine atıp, bir kaşıkla karıştırın. Makarnayı sevdiğiniz kıvamda pişirdikten sonra, üzerine eklemeden önce sosun içine mozerella peynirini ekleyin ve erimesi için 2-3 dakika bekleyin. Süzülmüş makarnanın üzerine sosu, üzerine parmesan peynirini ve en üste de fesleğen yapraklarını ekleyip servis edin..",
+        "sure": 30,
+          "pisirimturu":"ocak",
+           "malzemeler":"350 gr penne rigate makarna\r\n 150 gr küp doğranmış mozzarella peynir\r\n Servis için ince rendelenmiş parmesan peynir\r\n Garnitür için birkaç tüm fesleğen yaprağı\r\n Domates sosu için:\r\n\r\n 1 kg taze, kırmızı, olgun domates\r\n 1 yemek kaşığı zeytin yağı\r\n Soyulmuş ve ince doğranmış 1 orta boy soğan\r\n Soyulmuş ve ezilmiş 1 diş sarımsak\r\n Yaklaşık 12 büyük taze fesleğen yaprağı\r\n Tuz ve taze öğütülmüş karabiber"
+    },
+     {
+        "adi": "Farfalle  ",
+        "id": 6,
+        "image": "https://i.pinimg.com/564x/7d/15/9a/7d159aa2874aab177a267f5cfe812e8d.jpg",
+        "materials":"[ makarna,zeytinyağı,tuz,su,Kıyma ,soğan, biber,salça, domates]",
+        "recipe": "Öncelikle suyu kaynatıyoruz. Zeytin yağı ve tuz atıp kaynayan suya makarnayı atıyoruz. Makarna pişmeye devam ederken sosu hazırlamaya başlıyoruz. İnce ince kesilmiş soğan ve biberleri zeytinyağında kavuruyoruz. Ardından kıymayı atıyoruz kıyma iyice pişene kadar kavurma işlemine devam ediyoruz. Salça ve domatesi atıp domatesler eriyene kadar kavuruyoruz. Yarım çay bardağı su atıp suyun çok az çekmesini bekliyoruz. Pişen makarnalar süzülür. Sos tencereye alınarak makarna ile karıştırılır onlar da biraz kavrularak yemeğimiz hazırlanmış olur..",
+        "sure": 40,
+          "pisirimturu":"ocak",
+           "malzemeler":" Bir paket makarna\r\n zeytinyağı\r\n tuz\r\n Su\r\n Sos için :\r\n\r\n kıyma (miktarı isteğe bağlı)\r\n 1 adet soğan\r\n 1 adet biber\r\n Yarım tatlı kaşığı salça\r\n 1 adet domates"
+        
+    },
+     {
+        "adi": "Tagliatelle",
+        "id": 7,
+        "image": "https://i.pinimg.com/564x/1d/92/4b/1d924b622204acaed411c32701721f47.jpg",
+        "materials":"[un,yumurta,zeytinyağ,domates salçası,tereyağı,tuz,irmik unu,şeker]",
+        "recipe": "Ununuzu tartın ve ortasına, havuz gibi yuvarlak boşluk açın.\r\n Yumurtayı, zeytinyağını, tuzu irmik ununu ekleyip yoğurun.\r\n İyice yoğurduktan sonra merdane ile açın.\r\n İyice ince açmalısınız, yufkadan çok az kalın olacak.\r\n Makarna kesme aletini yoksa yarım cm eninde uzunlamasına kesin. (tezgaha iyice açıp bıçağınızla kesebilirsiniz.)\r\n Kestiğiniz hamurları tabağa koyup 1 saat buzlukta dinlendirin.\r\n O sırada napolitan sosunuzu yapın.\r\n Napolitan sosu için tereyağı ve salçanızı kavurun.\r\n Baharatlarınızı ekleyip 1 çimdik de un ekleyip iyice kavurmaya devam edin.\r\n Sosunuz kavrulduktan sonra su ile açın.\r\n Kıvamını kendi zevkinize göre ayarlayın, çok su koyarsanız sosunuz çok sıvı olur.\r\n Buzlukta ki makarnanızı kaynattığınız tuzlu suda 5 dakika haşlayın.\r\n (İtalyan makarnası biraz sert kalır, bu kıvama al dente yani ağza gelir denir.)\r\n Haşlanan makarnanızı sosunuza ekleyin 2 dakikada sosunuzla pişirin, en son 1 çay kaşığı tereyaığ ekleyin. ",
+        "sure": 75,
+          "pisirimturu":"ocak",
+           "malzemeler":"100 gram un\r\n 1 adet yumurta\r\n 10 cl.zeytinyağı\r\n 20 gram irmik unu\r\n 50 gram domates salçası\r\n 25 gram tereyağı\r\n 10 gram tuz\r\n 1 çimdik şeker\r\n 1 çimdik pul biber\r\n 1 çimdik kekik"
+    },
+     {
+        "adi": "Spaghetti",
+        "id": 8,
+        "image": "https://lezzet.blob.core.windows.net/images-xxlarge-recipe/renkli_spagetti-9f1db2fd-ff93-4849-8d04-ed61a6e7b834.jpg",
+        "materials":"[spagetti ,su , soğan ,havuç , kereviz sapı ,zeytinyağı , domates , maydanoz ,şeker , karabiber ,tuz ]",
+        "recipe": "Makarnayı 8 bardak kaynatılmış suda 8 dakika haşlayıp, kaynatıp süzün.\r\n Soğanı havucu ve kereviz sapını minik küpler şeklinde doğrayın.\r\n Derin bir tencereyezeytinyağını dökerek sebzeleri ilave edin.\r\n Hızlı ateşte soteledikten sonra küpler halinde doğranmış domatesleri ve suyu ekleyerek, kısık ateşte 15 dakika kadar pişirin.\r\n Sosun pişmesine yakın kıyılmış maydanozları ilave edin.\r\n Tuz ve şeker ile lezzetlendirin. Nepolitan sos suyunu çekince taze çekilmiş karabiber ekleyin.\r\n Diğer tarafta haşladığınız spagetti ile sosu harmanlayın. Taze nane yaprakları ile süsleyerek servis yapın.",
+        "sure": 40,
+          "pisirimturu":"ocak",
+           "malzemeler":" 1 paket makarna\r\n 2 su bardağı domates suyu ya da 4 yemek kaşığı salça\r\n 4 adet domates\r\n 1 çay kaşığı toz şeker \r\n 1 çay bardağı sıvı yağ\r\n 1 adet kuru soğan damak tadına göre acı biber\r\n 1 kırmızı biber\r\n 1 yemek kaşığı zeytinyağı\r\n 4 diş  sarımsak\r\n Yeterince tuz\r\n karabiber\r\n kırmızı pul biber\r\n 1 çay kaşığı kuru fesleğen (ya da taze fesleğen – reyhan)"
+    },
+    {
+        "adi": "Sebzeli Noodle  ",
+        "id": 9,
+        "image": "https://i.pinimg.com/564x/f1/9b/86/f19b861f862f0a2ba5d7e02a13b99fad.jpg",
+        "materials":"[noodle, dolmalık biber,kırmızı biber,havuç,brokoli,mantar,soya sosu,zeytinyağı ]",
+        "recipe": "Öncelikle kaynayan tuzlu suda noodleları pişene kadar 10 dakika kadar haşlayın.\r\n Pişince süzüp bir kenara alın.\r\n Geniş bir tavaya zeytinyağını alın.\r\n Sırasıyla havuç, brokoli, biberler ve mantarları ilave edip biraz soteleyin. Bu arada sebzelerin bol olması gözünüzü korkutmasın.\r\n Piştikçe miktar azalacak.\r \nSebzeler biraz yumuşayınca (sadece biraz, çok yumuşamasın. biraz diri olup ağza gelince güzel oluyor) üzerine soya sosunu ilave edip karıştırın.",
+        "sure": 20,
+          "pisirimturu":"ocak",
+           "malzemeler":" 250 gram yumurtalı noodle\r\n 1 adet dolmalık biber\r\n  1 adet kırmızı biber\r\n 1 adet havuç\r\n 70 gram brokoli(2 avuç kadar)\r\n 10 adet mantar\r\n  4 yemek kaşığı soya sosu\r\n 3-4 yemek kaşığı zeytinyağı(ya da susam yağı)"
+    },
+    {
+        "adi": " Adaçaylı Ravioli  ",
+        "id": 10,
+        "image": "https://i.pinimg.com/564x/52/46/6d/52466d01a9b06958e449c2bd348c059c.jpg",
+        "materials":"[peynirli ravioli,tereyağı,zeytinyağı, adaçayı,bezelye,parmesan peyniri,roka,tuz,karabiber ]",
+        "recipe": "     Kaynayan tuzlu suda raviolileri yumuşayıncaya kadar haşlayıp süzün.\r\n Tereyağı ve zeytinyağını tavaya alıp eritin ve rengi hafif sararıncaya kadar orta ateşte bekletin.\r\n Adaçayı yaprakları, bezelye, tuz ve karabiberi ekleyip birkaç dakika yüksek ateşte soteleyin.\r\n Raviolileri karışıma ekleyip birkaç dakika pişirin ve servis tabaklarına alın.\r\n Üzerine parmesan peyniri ile roka yaprakları serpip sıcak servis yapın..",
+        "sure": 20,
+          "pisirimturu":"ocak",
+           "malzemeler":"120 gram ravioli\r\n 250 gram domates püresi\r\n 2 diş ince kıyılmış sarımsak \r\n birkaç dal fesleğen \r\n zeytinyağı\r\n tuz  \r\nkarabiber "
+    },
+    {
+        "adi": " Adaçaylı Ravioli  ",
+        "id": 11,
+        "image": "https://i.pinimg.com/564x/58/b9/af/58b9af5367ca1d06b6f3914541b49b6b.jpg",
+      "materials":"[tagliatelle makarna,zeytinyağı,pesto sos, ceviz,acı biber ]",
+        "recipe": "     Kaynayan tuzlu suda raviolileri yumuşayıncaya kadar haşlayıp süzün.\r\n Tereyağı ve zeytinyağını tavaya alıp eritin ve rengi hafif sararıncaya kadar orta ateşte bekletin.\r\n Adaçayı yaprakları, bezelye, tuz ve karabiberi ekleyip birkaç dakika yüksek ateşte soteleyin.\r\n Raviolileri karışıma ekleyip birkaç dakika pişirin ve servis tabaklarına alın.\r\n Üzerine parmesan peyniri ile roka yaprakları serpip sıcak servis yapın..",
+        "sure": 25,
+          "pisirimturu":"ocak",
+           "malzemeler":"1 paket tagliatelle makarna\r\n 1 çorba kaşığı zeytinyağı\r\n Bir buçuk çorba kaşığı pesto sos\r\n 1 su bardağı dövülmüş ceviz\r\n 2-3 adet acı biber"
+    }
+]

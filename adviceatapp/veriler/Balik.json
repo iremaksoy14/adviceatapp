@@ -1,0 +1,83 @@
+[
+    {
+        "adi": " Fırında Çipura",
+        "id": 1,
+        "image": "https://i.pinimg.com/564x/df/82/9d/df829dfac3bbdda86f736f4e840f0808.jpg",
+        "malzemeler": "3 adet deniz çuprası\r\n2 orta boy kuru soğan\r\n6-7 diş sarımsak\r\n1 adet limon\r\n3 adet defne yaprağı\r\n1 çay kaşığı kırmızı toz biber\r\n3-4 yemek kaşığı zeytinyağı\r\nTuz\r\nKarabiber",
+        "recipe": "Ayıklanmış ve yıkanmış çipuraları sularının iyice süzülmesi için yarım saat kadar süzgeçte bekletin. Bu arada soğanları halka halka doğrayın.\r\n\r\nTepsinin altına önce halka soğanları yerleştirip balığınıza yatak yapın. Soğanların üzerine suları süzülmüş olan çipuraları yerleştirin. Keskin bir bıçak yardımıyla balıkların üzerine yatay 2-3 kesik atın. İç kısımlarına 1’er adet defne yaprağı koyun. Limonu da halka halka dilimleyin ve balıkların içine birer dilim koyun. Kalan limon dilimlerini balıkların üstlerine koyacaksınız.\r\n\r\nZeytinyağı ve toz kırmızı biberi bir kasede karıştırın ve bir fırça yardımıyla balıkların üstlerine sürün. En son tuz, karabiber ve soyduğunuz sarımsakları bütün olarak serpiştirin. Kalan limon dilimlerini de balıkların üstlerine koyun. Önceden ısıttığınız 180 derece fırında yaklaşık 40 dakika kadar pişirin.",
+        "sure": 45,
+         "pisirimturu":"fırın",
+          "materials":"[deniz çuprası,kuru soğan,sarımsak,limon,defne yaprağı,zeytinyağı,kırmızı toz biber,karabiber]"
+    },
+    {
+        "adi": "Sardalya",
+        "id": 2,
+        "image": "https://i.pinimg.com/474x/08/39/a9/0839a980c5d335c76ad7829ecc03530f.jpg",
+        "malzemeler": "1 Kilo sardalya\r\n1 Adet limon\r\n1 Su bardağı mısır unu\r\n 1 Çay bardağu zeytinyağı\r\n1 Tatlı kaşığı tuz",
+        "recipe": "Temizlenmiş balıkların daha lezzetli olması için bir saat tuzlu suda bekletin. Tuzlu sudan çıkarttığınız sardalya balıklarının suyunu süzdükten sonra mısır ununa beleyip, tavaya dizilir. Tavanın üzerine 2 kaşık zeytinyağı gezdirilir. Sardalya balıkları 5 dakika ocakta pişirilir. Diğer tarafıda çevirilerek pişirilir. Sıcak olarak servis yapılır.",
+        "sure": 55,
+         "pisirimturu":"ocak",
+         "materials":"[sardalya,limon,mısır unu,zeytinyağı,tuz]"
+    },
+    {
+        "adi": "Tereyağlı Soslu Alabalık",
+        "id": 3,
+        "image": "https://i.pinimg.com/564x/6f/df/e9/6fdfe9a337c7f2826f31a2c653b8253d.jpg",
+        "malzemeler": "4 adet alabalık\r\n 1 su bardağından az mısır unu\r\n 1 tatlı kaşığı tuz\r\n 1 çay kaşığı karabiber\r\n 1 çay kaşığı pulbiber\r\n 3 yemek kaşığı zeytinyağ",
+        "recipe": "Balıkları aldığınız yerde temizletin.\r\n Eve geldiğinizde yıkayın ve süzün.\r\n Mısır ununu baharatlarla karıştırın ve balıkları bulayın ve yağladığınız tavaya yerleştirin kızartın.",
+        "sure": 55,
+         "pisirimturu":"ocak",
+         "materials":"[alabalık,karabiber,mısır unu,pulbibe,tuz,zeytinyağ]"
+    },
+    {
+        "adi": "Fırında Dereotlu Somon Fileto",
+        "id": 4,
+        "image": "https://i.pinimg.com/564x/71/37/7e/71377e83c3c16822f19cd56f3a2933b1.jpg",
+        "malzemeler": "4 adet somon fileto (somon dilimi de kullanabilirsiniz)\r\n 2 yemek kaşığı zeytinyağı\r\n 2 yemek kaşığı dereotu (ince kıyılmış)\r\n Tuz\r\n Karabiber\r\n 1 limon",
+        "recipe": "Somonları güzelce yıkayıp suyunu süzün.\r\n Bir kap içerisinde zeytinyağı, tuz ve karabiber ile harmanlayın.\r\n Elinizle ovarak her tarafına yedirin.\r\n Fırın tepsisine folyo kağıdı veya fırın kağıdı serin ve somon filetoları yerleştirin.İnce kıyılmış dereotunu balıkların üzerine serpin.\r\n Daha önceden ısıtmış olduğunuz fırında 180 derecede 10-12 dk kadar pişirin.\r\n Rengi opak olmaya başladığında piştiğini anlarsınız. ",
+        "sure": 45,
+         "pisirimturu":"fırın",
+         "materials":"[ somon fileto,dereotu, ,karabiber,tuz,zeytinyağ]"
+    },
+     {
+        "adi": "Tavada Tereyağlı Sarımsaklı Levrek Fileto",
+        "id": 5,
+        "image": "https://baliktarifi.com/wp-content/uploads/2017/12/tavada-tereyagli-sarimsakli-levrek-fileto-tarifi-2.jpg",
+        "malzemeler": " 2 Adet Levrek Fileto\r\n 2 Yemek Kaşığı Tereyağı\r\n Maydanoz\r\n Tuz\r\n karabiber\r\n Tereyağlı Sarımsaklı Sos\r\n 2 Yemek Kaşığı Tereyağı\r\n 4 Diş sarımsak \r\n 1 Adet Limon\r\n Tuz\r\n karabiber",
+        "recipe": "Balıkları yıkayıp iyice suyunu süzdükten sonra tuz ve karabiber serpin.\r\n Geniş yapışmaz bir tavada 2 yemek kaşığı tereyağını eritip derisi altta kalacak şekilde pişirmeye başlayın.\r\n Rengi opaklaşmaya başladığında piştiğini anlarsınız.\r\n 3-4 dk kadar piştikten sonra ters çevirin ve 3 dk kadar da o şekilde pişirin.\r\n Filetoların kalınlığına göre bu süre değişiklik gösterebilir.\r\n Ayrı bir sos tenceresinde 2 yemek kaşığı tereyağını eritip sarımsakları soteleyin.\r\n Birkaç dk kadar piştikten sonra ocağın altını kısın ve 1 adet limon suyunu ilave edin.\r\n Damak tadınıza göre biraz tuz ve karabiber katıp sos çekene kadar kısık ateşte pişirin.\r\n Hazırladığınız sosu tavaya ilave edip balıklarla birlikte birkaç dk kadar pişirin.\r\n Üzerlerine ekstra limon dilimleri ekleyerek de pişirebilirsiniz.\r\n Bir tutam ince kıyılmış maydanoz serpip servis yapabilirsiniz ",
+        "sure": 30,
+         "pisirimturu":"ocak",
+         "materials":"[  Levrek Fileto ,Maydanoz, ,karabiber,Tereyağlı Sarımsaklı Sos,sarımsak,limon]"
+    },
+    {
+        "adi": "Roka Soslu Palamut",
+        "id": 6,
+        "image": "https://i.pinimg.com/564x/42/d6/d4/42d6d4203f1dc572b66bdacb362fe927.jpg",
+        "malzemeler": " 2 domates\r\n 2 kırmızı soğan\r\n 2 palamut\r\n 2.5 dal taze kekik\r\n 1 yemek kaşığı toz şeker\r\n 2 yemek kaşığı zeytinyağı\r\n Tuz\r\n Roka sosu için\r\n 1 su bardağı ceviz içi\r\n\r\n Yarım demet roka\r\n 2 diş sarımsak\r\n 4 yemek kaşığı zeytinyağı\r\n Tuz\r\n Karabiber\r\n Kızartmak İçin\r\n Yarım su bardağı mısır unu\r\n Yarım su bardağı un\r\n 1.5 su bardağı\r\n zeytinyağı\r\n Tuz",
+        "recipe": "Roka sosu için rokanın yapraklarını ayıklayıp yıkayın. Roka yaprakları, ceviz, sarımsak, zeytinyağı, tuz ve karabiberi mutfak robotunda püre şeklinde ezin.\r\n Domatesleri bir parmak kalınlığında yuvarlak kesin. Soğanları yuvarlak şekilde doğrayın.\r\n Domates ve soğanları fırın tepsisine dizin. Üzerlerine tuz, şeker ve taze kekik yapraklarını serpiştirin.\r\n Zeytinyağını gezdirin ve 180 derecede ısıttığınız fırında üzerleri kızarana kadar pişirin. \r\n Kalın yuvarlak dilimler şeklinde kesilmiş palamudu tuzlayın. Un ve mısır ununu karıştırarak düz bir tabağa alın.\r\n Balıkların her tarafını una bulayın ve fazlasını silkeleyin.\r\n Balıkların her iki tarafını da kızgın yağda kızartın. Servis tabağına domates, soğan ve balık sıralamasıyla dizin.\r\n Üzerine hazırladığınız roka sosundan gezdirip sıcak servis yapın. ",
+        "sure": 15,
+         "pisirimturu":"ocak",
+         "materials":"[ domates ,kırmızı soğan,palamut,kekik,sarımsak,toz şeker,zeytinyağı,ceviz,mısır unu,zeytinyağı,karabiber]"
+    },
+    {
+        "adi": "Fırında Soslu Sardaşlya",
+        "id": 7,
+        "image": "https://i.pinimg.com/564x/80/78/4a/80784a3b80046f1847e3c9de41d1e189.jpg",
+        "malzemeler": " 750 gram sardalya\r\n 2 su bardağı rendelenmiş domates\r\n 4 diş sarımsak\r\n 3-4 dal taze kekik veya 1 çay kaşığı kuru keki\r\n 6 adet közlenmiş kırmızı biber\r\n 4-5 adet kiraz domates\r\n 1 çorba kaşığı zeytinyağı\r\n 4 adet defne yaprağı\r\n 1/2 çay kaşığı karabiber\r\n 2 çay kaşığı tuz",
+        "recipe": "Rendelenmiş domates, kıyılmış sarmısak, kıyılmış kekik, karabiber ve 1 çay kaşığı tuzu çırpıp.\r\n Orta boy fırın kabına yayın. Aralarına kabukları temizlenmiş közlenmiş biber ve kiraz domates yerleştirin.\r\n Ayrı bir yerde temizlendikten sonra yıkanıp kurulanmış sardalya, 1 çay kaşığı tuz, karabiber ve zeytinyağını iyice harmanlayıp fırın kabına dizin.\r\n Üzerlerine defne yaprağı yerleştirip, önceden ısıtılmış 180 derece fırında 40 dakika pişirin.\r\n Sıcak olarak servis yapın ",
+        "sure": 50,
+         "pisirimturu":"fırın",
+         "materials":"[ sardalya ,domates,közlenmiş kırmızı biber,defne yaprağı,karabiber,zeytinyağı ,zeytinyağı, kiraz domates]"
+    },
+     {
+        "adi": "Hamsi Kuşu",
+        "id": 8,
+        "image": "https://i.pinimg.com/564x/52/6c/af/526caf9b283f2116d7b0487c3e94935a.jpg",
+        "malzemeler": "1 kilogram hamsi\r\n 1/2 demet taze soğan\r\n 1/2 demet maydanoz\r\n 1 adet orta boy kuru soğan\r\n 1 yemek kaşığı mısır unu\r\n 1/2 tatlı kaşığı nane\r\n 1 çay kaşığı tuz\r\n 1/2 çay kaşığı taze çekilmiş tane karabiber3 adet yumurta\r\n 1/2 su bardağı mısır unu\r\n 3/4 su bardağı ayçiçek yağı",
+        "recipe": "Kafa ve kılçık kısımlarını ayıkladığınız hamsileri fileto haline getirin. Bol suda yıkayıp fazla sularını kağıt havlu yardımıyla alın.\r\n Taze soğanların yeşil kısımlarını ince ince doğrayın.\r\n Ayıklanmış maydanoz yapraklarını incecik kıyın. Kuru soğanı diğer malzemelerle uyumlu olacak şekilde kıyın.\r\n Doğranmış yeşillikler, kuru soğan, mısır unu, nane, tuz ve taze çekilmiş tane karabiberi derin bir kasede karıştırın.\r\n Fileto haline gelen hamsilerden iki tanesini düz bir tabağa alın. Birinin üzerine hazırladığınız karışımdan sürüp diğerini üzerine sıkıca kapatın. İki hamsi birbirine yapışsın. Böylelikle yassı şeklinde köfteler hazırlayın.\r\n Yumurtaları derin bir kasede çırpın.\r\n Mısır ununu düz bir tabağa yayın.\r\n Hazırladığınız hamsi kuşları öncelikle çırpılmış yumurtaya ardından mısır ununa bulayıp derin bir tavada kızdırdığınız ayçiçek yağında kızartın. Arzuya göre ızgarada ters yüz ederek yağ kullanmadan pişirin. Sıcağı sıcağına sevdiklerinizle paylaşın. ",
+        "sure": 60,
+         "pisirimturu":"ocak",
+         "materials":"[ hamsi ,soğan,maydanoz, mısır unu,karabiber,karabiber ,karabiber,yumurta,ayçicek yağ]"
+    }
+
+]

@@ -1,5 +1,5 @@
 import * as React from 'react';
-
+//merhaba
 import ReactDOM from 'react-dom';
 import { Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';

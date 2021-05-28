@@ -1,5 +1,5 @@
 
-//güncellendi yeni
+//yine yeni 
 import * as React from 'react';
 
 import ReactDOM from 'react-dom';

@@ -1,5 +1,7 @@
+
+//güncellendi yeni
 import * as React from 'react';
-//degistirildi
+
 import ReactDOM from 'react-dom';
 import { Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
